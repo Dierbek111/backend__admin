@@ -1,0 +1,9 @@
+ul{
+   border: 1px solid black;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   gap: 20px;
+}
+li{
+   border: 1px solid black;
+   padding: 5px;
+}

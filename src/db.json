@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "LEGO Star Wars Millennium Falcon",
+      "price": 169.99,
+      "pieces": 1351,
+      "age_recommendation": "9+",
+      "category": "Star Wars"
+    },
+    {
+      "id": "fb01",
+      "name": "qweqwe",
+      "price": "123",
+      "category": "qweqwe",
+      "pieces": "123",
+      "age_recommendation": "qweqwe"
+    }
+  ]
+}
